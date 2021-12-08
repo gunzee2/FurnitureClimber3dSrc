@@ -1,10 +1,13 @@
 # FurnitureClimber3dSrc
 
-unityroomにて公開中の「家具クライマー3D」のソースコードです。
+unityroomにて公開中の「家具クライマー3D」のソースコードです。  
 市販のアセットを使用しているため、ソースコードのみの公開となります。
 
 家具クライマー3D unityroom DEMO  
 https://unityroom.com/games/furnitureclimber3d_demo
+
+下記で開発日誌を書いています。  
+https://medium-rare.jpn.org/archives/1926
 
 ## 使用アセット(スクリプト部分)
 ### Easy Character Movement2  
