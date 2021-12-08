@@ -8,9 +8,9 @@ https://unityroom.com/games/furnitureclimber3d_demo
 
 ## 使用アセット(スクリプト部分)
 ### Easy Character Movement2
-https://assetstore.unity.com/packages/tools/physics/easy-character-movement-2-193614?locale=ja-JP
+https://assetstore.unity.com/packages/tools/physics/easy-character-movement-2-193614
 ### Odin - Inspector and Serializer
-https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041?locale=ja-JP
+https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
 ### DoTween Pro
 https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
 
