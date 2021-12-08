@@ -16,6 +16,8 @@ https://assetstore.unity.com/packages/tools/physics/easy-character-movement-2-19
 https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041
 ### DoTween Pro  
 https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
+### Master Audio: AAA Sound Solution
+https://assetstore.unity.com/packages/tools/audio/master-audio-aaa-sound-5607
 
 ## ライセンス表記
 ### UniRx
